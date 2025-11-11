@@ -1,5 +1,6 @@
 duckduckgo_search==5.3.1b1
 einops
+beautifulsoup4
 fastapi
 gradio==5.7.1
 janus
